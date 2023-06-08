@@ -1,2 +1,4 @@
 # Tugas-PAA-II-Pertemuan-14-
-Perbandingan Algoritma Buble Sort &amp; Algoritma Insertion Sort
+# Abib Raifmuaffah Ihwan
+# F551 21 043
+# Kelas B
